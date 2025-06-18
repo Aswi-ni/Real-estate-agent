@@ -1,0 +1,14 @@
+generator client {
+  provider = "prisma-client-py"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = "postgresql://postgres:postgres@localhost:5433/SalesAgent"
+}
+
+model SalesAgent {
+  id           Int    @id @default(autoincrement())
+  name         String
+  phone_number String
+}
