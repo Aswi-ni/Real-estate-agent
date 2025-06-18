@@ -1,0 +1,3 @@
+The Real Estate Sales Voice Agent is a smart AI-driven assistant built using Vapi for natural voice conversations and integrated with a Twilio phone number to handle property inquiries via phone calls. Prospective buyers can ask about available listings, pricing, brochures, floor plans, or schedule property visits, and get instant responses through the voice assistant Ava.
+
+This particular assitant is trained for Rove Home Dubai Marina - developed by IRTH. The backend, powered by Python and FastAPI, manages conversation context, listing data, and dynamic assistant logic. With the assistant override feature, the assistant can address customers by name and adapt its tone or branding to different real estate agencies for a highly personalized and professional experience.
